@@ -8,3 +8,6 @@ Required data types (cols):
 - strike of nodal plane (0 - 180 degrees)  
 - dip of nodal plane (0 - 90 degrees)  
 - rake or sense of movement on nodal plane (0 -180 degrees). positive for reverse, negative for normal.  
+
+The docs  
+https://docs.obspy.org/packages/autogen/obspy.imaging.beachball.beachball.html#obspy.imaging.beachball.beachball
